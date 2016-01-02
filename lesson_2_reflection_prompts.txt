@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+Some elements are created to track the commits. So we can initialize an empty git repository and commit files and keep track of them.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is the part that will be commited and 'saved'.
+Working directory is where you can modify files locally.
+Repository is the whole group of files associated with the project you are working on
