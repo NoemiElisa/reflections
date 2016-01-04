@@ -11,3 +11,6 @@ Branches create a copy of the code of the branch you are working on.
 If we want to copy someone else's directory to continue the work but we do not intend to apply changes on the first one we will use fork.
 To create a new repository we will use clone.
 To create a parallel copy of the code that we can then merge in the future to another branch, or for prototypes we will use branches
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+In case we need to work offline, is goot to have the last state of the remote updated so we can do merges and prepare everything for pushing when we are back online.
