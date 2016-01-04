@@ -14,3 +14,7 @@ To create a parallel copy of the code that we can then merge in the future to an
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 In case we need to work offline, is goot to have the last state of the remote updated so we can do merges and prepare everything for pushing when we are back online.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Using another tool, for example SVN, TFS... If no other tool, sharing the contect directly through emails/cloud/share folder...
+Commenting on the exact line of code would be then harder, and also merging conflicts ... It would be easier to make mistakes!
