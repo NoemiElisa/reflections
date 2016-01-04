@@ -18,3 +18,6 @@ In case we need to work offline, is goot to have the last state of the remote up
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Using another tool, for example SVN, TFS... If no other tool, sharing the contect directly through emails/cloud/share folder...
 Commenting on the exact line of code would be then harder, and also merging conflicts ... It would be easier to make mistakes!
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I am working on the same project as someone else, as we could be modifying the same file. It brings the benefit that we can review and get feedback on our code before adding it.
